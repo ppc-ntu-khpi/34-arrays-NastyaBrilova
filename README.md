@@ -43,7 +43,7 @@
 	 * @param size довжина массива
 	 * @return массив
 	 */
-	public static int[] generateArray(int size) 
+	public static int[] creature(int size) 
    {
 		int[] array = new int[size];
 		for (int i = 0; i < size; i++) 
