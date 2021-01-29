@@ -60,5 +60,5 @@
 ----
 
 ![Gitter](https://github.com/ppc-ntu-khpi/34-arrays-NastyaBrilova/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%201.PNG)<br><br>
-![Gitter](https://github.com/ppc-ntu-khpi/34-arrays-coldbeatz/blob/master/Screenshot_18.png)<br><br>
+![Gitter](https://github.com/ppc-ntu-khpi/34-arrays-NastyaBrilova/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%202.PNG)<br><br>
 ![Gitter](https://github.com/ppc-ntu-khpi/34-arrays-coldbeatz/blob/master/Screenshot_20.png)<br>
